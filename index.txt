@@ -1,3 +1,2 @@
 Hello Git
-Learning Git is fun!
-This line should be reverted 
+Learning Git is fun! 

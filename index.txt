@@ -1,2 +1,2 @@
-Hello Git
+Hello from master branch
 Learning Git is fun! 

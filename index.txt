@@ -1,3 +1,2 @@
 Hello Git
-Learning Git is fun!
-This is my test line for testing git revert
+Learning Git is fun! 

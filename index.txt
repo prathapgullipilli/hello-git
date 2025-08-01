@@ -1,2 +1,4 @@
-Hello Git
-Learning Git is fun! 
+Hello from conflict branch
+Learning Git is fun!
+Work in progress – not ready!
+Another unfinished line in index.txt
